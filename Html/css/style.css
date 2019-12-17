@@ -1,0 +1,26 @@
+body{
+    background-color: floralwhite;
+}
+h1{
+    color: blue;
+    margin-left: auto;
+    font-style: italic;
+}
+h3{
+    color: blueviolet;
+    margin-left: auto;
+}
+
+#output{
+    color: darkgreen;
+    font-style: italic;
+}
+.c1{
+    color: darkorchid;
+}
+.c2{
+    font-style: oblique;
+}
+.c3{
+    text-align: center;
+}
